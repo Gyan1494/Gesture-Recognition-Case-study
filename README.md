@@ -13,4 +13,4 @@ The training data consists of a few hundred videos categorised into one of the f
 
 Dataset : https://drive.google.com/uc?id=1ehyrYBQ5rbQQe6yL4XbLWe3FMvuVUGiL
 
-Contributers:
+
