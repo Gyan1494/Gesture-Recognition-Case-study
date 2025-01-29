@@ -1,4 +1,4 @@
-#Gesture Recognition: Case study
+**Gesture Recognition: Case study**
 
 Recognising 5 different hand gestures to control a smart TV
 
